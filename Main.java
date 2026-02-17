@@ -54,7 +54,9 @@ public class Main {
         }
         int intNilai = (nilai != null) ? 0 : (int) nilai;
         String variableNilai = cekNilai(intNilai);
-
+        
+        sc.close();  
+        
         System.out.println("===== Data Mahasiswa =====");
         System.out.println("Nama Mahasiswa: "+ namaMahasiswa);
         System.out.println("NIM Mahasiswa: "+ nim);
@@ -68,7 +70,7 @@ public class Main {
         System.out.println("Nilai Mahasiswa: "+nilai);
         System.out.println("Variable Nilai Mahasiswa: "+variableNilai);
         
-        sc.close();    
+          
     }  
     static String cekNilai(int nilai){
         if (nilai >= 75){

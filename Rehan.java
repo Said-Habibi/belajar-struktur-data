@@ -43,6 +43,8 @@ public class Rehan {
             }
         }
 
+        scanner.close();
+
         int variabelNilai = (nilai != null) ? (int) nilai : 0;
         
         System.out.println("----- Hasil Penilaian -----");
