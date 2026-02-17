@@ -9,12 +9,12 @@ public class Main {
         Object nilai = null;
         
         Scanner sc = new Scanner(System.in);
-        System.out.println("Masukan Nama Mahasiswa: ");
+        System.out.print("Masukan Nama Mahasiswa: ");
         String namaMahasiswa = sc.nextLine();
 
         while (!nimSukses){
             try {
-                System.out.print("Masukan NIM Mahasiswa");
+                System.out.print("Masukan NIM Mahasiswa: ");
                 nim = sc.nextInt();
 
                 nimSukses = true;   
@@ -25,20 +25,20 @@ public class Main {
         } 
 
 
-        System.out.println("Masukan Fakultas Mahasiswa: ");
+        System.out.print("Masukan Fakultas Mahasiswa: ");
         String fakultas = sc.nextLine();
         fakultas = sc.nextLine();
         
-        System.out.println("Masukan Jurusan Mahasiswa: ");
+        System.out.print("Masukan Jurusan Mahasiswa: ");
         String jurusan = sc.nextLine();
         
-        System.out.println("Masukan Prodi Mahasiswa: ");
+        System.out.print("Masukan Prodi Mahasiswa: ");
         String prodi = sc.nextLine();
         
-        System.out.println("Masukan Universitas Mahasiswa: ");
+        System.out.print("Masukan Universitas Mahasiswa: ");
         String universitas = sc.nextLine();
         
-        System.out.println("Masukan Nama Mata Kuliah: ");
+        System.out.print("Masukan Nama Mata Kuliah: ");
         String matkul = sc.nextLine();
         
         while (!nilaiSukses){
@@ -83,5 +83,4 @@ public class Main {
             return "D";
         }
     }
-}
-    
+}  
