@@ -6,8 +6,6 @@ public class Rekursif {
         return n * faktorial(n - 1);
     }
 
-    // visualisasi memori
-
     public int Print(int n){
         if (n == 0){
             return 0;
@@ -18,7 +16,7 @@ public class Rekursif {
         }
     }
 
-    // menara hanoi
+    
     public static void hanoi(int n, char sumber, char bantu, char tujuan){
         if (n == 0){
             System.out.println("Pindahkan disk 1 dari "+ sumber+" ke " + tujuan);
@@ -35,7 +33,7 @@ public class Rekursif {
         }
 
         for (int i = 0; i <= 4; i++){
-            System.out.printf("Print ke-",i, tes.Print(i));
+            System.out.printf("" + tes.Print(i));
         }
         tes.Print(4);
 
