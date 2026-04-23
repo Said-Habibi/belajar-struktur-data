@@ -1,5 +1,5 @@
 package Praktikum9;
-
+import Praktikum9.Node;
 public class SingleLinkedList {
     private Node head;
     private Node tail;

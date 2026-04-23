@@ -1,5 +1,5 @@
 package Praktikum9;
-
+import Praktikum9.*;
 public class Main {
     public static void main(String[] args) {
         // LinkedList ll = new LinkedList();
@@ -7,8 +7,8 @@ public class Main {
         Node data1 = new Node("Ardi");
         Node data3 = new Node("Keenan");
         Node data2 = new Node("Vita");
-        sll.addFirst(data1);
-        sll.addFirst(data2);
+        sll.addLast(data1);
+        sll.addLast(data2);
         sll.addFirst(data3);
         sll.display();
 
