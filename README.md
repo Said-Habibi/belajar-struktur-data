@@ -30,7 +30,7 @@ Sedang dirapikan 😊
 | 02 | **Linked List** | Single, Double, dan Circular Linked List | ✅ Selesai |
 | 03 | **Stack** | Implementasi stack dengan array dan linked list | ✅ Selesai |
 | 04 | **Queue** | Queue, Circular Queue, dan Priority Queue | ✅ Selesai |
-| 05 | **Tree** | Binary Tree, BST, dan AVL Tree | ✅ Selesai |
+| 05 | **Tree** | Binary Tree, BST, dan AVL Tree | 🔄 Proses |
 | 06 | **Heap** | Min Heap dan Max Heap | 🔄 Proses |
 | 07 | **Graph** | Representasi graf, BFS, dan DFS | 🔄 Proses |
 | 08 | **Hash Table** | Hash table dengan berbagai teknik collision handling | 📝 Rencana |
