@@ -1,4 +1,4 @@
-package Praktikum11.Tugas.PenggunaanPadaAplikasi;
+package Tugas.PenggunaanPadaAplikasi;
 
 public class KasirQueueu {
     private Pelanggan front;

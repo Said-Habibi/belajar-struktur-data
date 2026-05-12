@@ -22,7 +22,7 @@ public class Queue2{
             System.out.println("Antrean penuh");
         } else {
             arr[++rear] = data;
-            System.out.println(data + "masuk antrean");
+            System.out.println(data + " masuk antrean");
         }
     }
 

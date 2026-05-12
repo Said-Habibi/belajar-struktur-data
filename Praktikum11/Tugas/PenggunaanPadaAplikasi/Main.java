@@ -1,4 +1,4 @@
-package Praktikum11.Tugas.PenggunaanPadaAplikasi;
+package Tugas.PenggunaanPadaAplikasi;
 
 public class Main {
     public static void main(String[] args) {

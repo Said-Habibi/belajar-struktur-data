@@ -1,4 +1,4 @@
-package Praktikum11.Program2;
+package Program2;
 
 public class Queue {
     private int[] arr;

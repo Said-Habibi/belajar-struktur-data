@@ -1,4 +1,4 @@
-package Praktikum11.Tugas.QueueLinkedList;
+package Tugas.QueueLinkedList;
 
 public class Node {
     int data;
