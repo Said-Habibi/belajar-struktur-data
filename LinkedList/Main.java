@@ -1,5 +1,5 @@
-package Praktikum9;
-import Praktikum9.*;
+package LinkedList;
+import LinkedList.*;
 public class Main {
     public static void main(String[] args) {
         // LinkedList ll = new LinkedList();

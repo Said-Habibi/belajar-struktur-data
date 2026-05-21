@@ -1,5 +1,5 @@
-package Tugas10;
-import Tugas10.*;
+package Stacks;
+import Stacks.*;
 public class Main {
     public static void main(String[] args) {
         AStack stack = new AStack();

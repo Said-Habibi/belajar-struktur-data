@@ -1,5 +1,5 @@
-package Tugas10;
-import Tugas10.Node;
+package LinkedList;
+import LinkedList.Node;
 public class SingleLinkedList {
     private Node head;
     private Node tail;
@@ -81,19 +81,5 @@ public class SingleLinkedList {
             }
             --this.size;
         }
-    }
-
-    public Node getNode(int index){
-        Node pointer;
-        int i;
-        if (isEmpty()) return null;
-            pointer = head;
-            i = 0;
-            while (pointer != null){
-                if (i == index) return pointer;
-                i++;
-                pointer = pointer.getNextReference();
-            }
-        return null;
     }
 }

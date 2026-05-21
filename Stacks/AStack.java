@@ -1,4 +1,4 @@
-package Tugas10;
+package Stacks;
 
 public class AStack {
     private static final int MAX_SIZE = 100;

@@ -1,4 +1,4 @@
-package Tugas10;
+package LinkedList;
 
 public class Node {
     private String data;

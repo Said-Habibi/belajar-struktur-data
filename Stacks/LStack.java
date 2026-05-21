@@ -1,5 +1,5 @@
-package Tugas10;
-import Tugas10.*;
+package Stacks;
+import Stacks.*;
 public class LStack {
     private static final int MAX_SIZE = 100;
     private int size;

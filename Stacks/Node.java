@@ -1,4 +1,4 @@
-package Praktikum9;
+package Stacks;
 
 public class Node {
     private String data;
