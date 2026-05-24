@@ -1,0 +1,4 @@
+buka terminal pakai ctrl + `
+pastiin path nya bener
+tempel perintah ini ke terminal
+java *.java
